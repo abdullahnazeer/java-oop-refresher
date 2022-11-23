@@ -1,0 +1,36 @@
+Object - contains data in the form of properties and methods
+       - instance of a class
+
+Four pillars of OOP:
+
+Abstraction -
+
+Only showing what is necessary to the user of an object.
+Hiding implementation details inside something.
+
+Inheritance -
+
+Encourages code re-usability by letting one object acquire the properties of another object.
+
+super class / base class / parent class <--- sub class / extended class / child class
+
+NO MULTIPLE INHERITANCE IN JAVA
+
+Inheritance has an "IS A" relationship
+sub class IS A super class
+Ford Focus IS A Car
+
+Polymorphism -
+
+Poly = many, Morph = forms
+
+The ability of a class to run a method in two or more different ways.
+
+Encapsulation -
+
+Built on the idea of data hiding.
+Data hiding - where we restrict access to certain properties or methods of an object to whatever is calling the object
+
+Encapsulate a class using private properties - with public getter and setter methods
+
+
